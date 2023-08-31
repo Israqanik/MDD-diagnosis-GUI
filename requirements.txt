@@ -1,0 +1,6 @@
+mne
+numpy
+tensorflow
+scikit-learn
+PyQt5
+h5py
