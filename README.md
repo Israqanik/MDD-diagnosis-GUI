@@ -7,3 +7,6 @@
 - To install all the requirements, run the following command at the Anaconda prompt:
 ```python
 pip install -r requirements.txt
+```
+- Then in the UI press load to load and plot the EEG raw file.
+- Press **Diagnosis** to plot the **Gamma brainwave** of the EEG signal and diagnose MDD.
