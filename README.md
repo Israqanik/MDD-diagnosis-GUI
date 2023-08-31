@@ -8,5 +8,5 @@
 ```python
 pip install -r requirements.txt
 ```
-- Then in the UI press **load** button to load and plot the EEG raw file.
-- Press **Diagnosis** button to plot the **Gamma brainwave** of the EEG signal and diagnose MDD.
+- Then in the UI press ***Load*** button to load and plot the EEG raw file.
+- Press ***Diagnosis*** button to plot the **Gamma brainwave** of the EEG signal and diagnose MDD.
