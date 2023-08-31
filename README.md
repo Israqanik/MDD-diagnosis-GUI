@@ -1,5 +1,5 @@
 # MDD-diagnosis-GUI
-##This graphical user interface lets the user diagnose MDD from EEG data in the form of (.edf) files.
+## This graphical user interface lets the user diagnose MDD from EEG data in the form of (.edf) files.
 
 First, install Anaconda or Python (**preferably Anaconda**). Download all the files from here and extract them.
 Open the Annaconda prompt in the extracted directory. *To install all the requirements, run the following command at the Anaconda prompt:*
